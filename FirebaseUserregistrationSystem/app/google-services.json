@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1061302577820",
+    "firebase_url": "https://fir-userregistration-syst.firebaseio.com",
+    "project_id": "fir-userregistration-syst",
+    "storage_bucket": "fir-userregistration-syst.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1061302577820:android:0efb393eb780d334339b59",
+        "android_client_info": {
+          "package_name": "in.avijit.firebaseuserregistrationsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1061302577820-n9eao665nk5m6r7efs4icrvmai7biquv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.avijit.firebaseuserregistrationsystem",
+            "certificate_hash": "2351507727805cf808c69f445af77ccc3a0ac57f"
+          }
+        },
+        {
+          "client_id": "1061302577820-i1j5aifpqo2elfj157bb4hl00mgvdojh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1TnvI8VPRnTlhZndS-vdtLiTzYS5JACI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1061302577820-i1j5aifpqo2elfj157bb4hl00mgvdojh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,2 @@
+rootProject.name='Firebase Userregistration System'
+include ':app'
